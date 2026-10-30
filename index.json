@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "mangaread",
+      "familyID": "mangaread-v1",
+      "path": "modules/mangaread",
+      "manifest": "modules/mangaread/manifest.json"
+    }
+  ]
+}
