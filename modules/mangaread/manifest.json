@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "familyID": "mangaread-v1",
+  "id": "mangaread",
+  "version": "1.0.0",
+  "name": "MangaReadAri",
+  "contentType": "pageImages",
+  "language": "en",
+  "rating": "safe",
+  "releaseTrack": "stable",
+  "capabilities": ["discovery", "search", "details", "chapters", "pages"],
+  "baseURL": "https://www.mangaread.org/",
+  "universalLink": "https://www.mangaread.org/",
+  "attribution": "MangaReadAri Source Module",
+  "limits": {
+    "maxConcurrency": 2,
+    "requestIntervalMs": 1000
+  },
+  "allowedHosts": ["mangaread.org", "www.mangaread.org"]
+}
