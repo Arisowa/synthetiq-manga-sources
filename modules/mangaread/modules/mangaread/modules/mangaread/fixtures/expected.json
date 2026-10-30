@@ -1,0 +1,10 @@
+{
+  "search": {
+    "query": "sample",
+    "expectedCount": 0
+  },
+  "details": {
+    "id": "sample-manga",
+    "title": ""
+  }
+}
